@@ -5,7 +5,12 @@
 <br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Huzaifa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muhammad Huzaifa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Huzaifa Tanveer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Muhammad Huzaifa) 
+<p align="left">
+<a href="https://twitter.com/muhammad huzaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad huzaifa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huzaifa tanveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa tanveer" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad huzaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad huzaifa" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammad huzaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad huzaifa" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
