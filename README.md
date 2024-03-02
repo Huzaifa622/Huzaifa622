@@ -5,7 +5,7 @@
 <br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhaamd Huzaifa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muhammad Huzaifa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Huzaifa Tanveer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Muhaamd Huzaifa) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Huzaifa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muhammad Huzaifa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Huzaifa Tanveer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Muhammad Huzaifa) 
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
